@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: Letters of Recomendation
-excerpt: "References"
+layout: project
+title: All Projects
+excerpt: "A List of Projects"
 comments: false
 ---
