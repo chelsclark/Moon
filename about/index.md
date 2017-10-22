@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-(/assets/img/Chelsea.jpg)
+![me](/assets/img/Chelsea.jpg)
 
 Hi! My name is Chelsea Clark (some people call me Chels) and I am a writer, designer, and marketer. I currently attend Cedarville University where I am studying Professional Writing and Information Design. I also plan to graduate with three business minors: Marketing (of course), Business Administration, and International Business. 
 
