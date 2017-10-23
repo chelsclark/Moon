@@ -1,9 +1,9 @@
 ---
-layout: project
-title: "Testing Readability with a Bunch of Text"
-date: 2017-10-23
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+layout: post
+title:  "Test"
+date:   2017-10-23
+excerpt: "Minimal, one column Jekyll theme for your blog."
+project: true
 comments: true
 ---
 
