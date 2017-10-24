@@ -9,7 +9,7 @@ comments: true
 ---
 # Sojourn Cyclery Personas
 
-chelsclark.github.io/assets/img/MarketingPersona1.JPG
-chelsclark.github.io/assets/img/MarketingPersona2.JPG
+assets/img/MarketingPersona1.JPG
+assets/img/MarketingPersona2.JPG
 
 Our marketing team conducted research to determine the market of Sojourn's Wooden E-bike. 
