@@ -7,6 +7,8 @@ project: true
 tags: [Sojourn Cyclery]
 comments: true
 ---
+# Sojourn Cyclery Personas
+
 chelsclark.github.io/assets/img/MarketingPersona1.JPG
 chelsclark.github.io/assets/img/MarketingPersona2.JPG
 
