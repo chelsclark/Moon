@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Test"
+title:  "Sojourn Cyclery Personas"
 date:   2017-10-23
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Our Marketing Communications class had the opportunity to partner with Sojourn Cyclery to identify the market for the Sojourn's Wooden E-bike. These are the personas I created."
 project: true
-tags: [test]
+tags: [Sojourn Cyclery]
 comments: true
 ---
+chelsclark.github.io/assets/img/MarketingPersona1.JPG
+chelsclark.github.io/assets/img/MarketingPersona2.JPG
 
-# Blah blah blah
+# Our marketing team conducted research to determine the market of Sojourn's Wooden E-bike. 
