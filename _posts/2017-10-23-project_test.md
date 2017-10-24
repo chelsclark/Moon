@@ -7,7 +7,7 @@ project: true
 tags: [Sojourn Cyclery]
 comments: true
 ---
-#
+
 ![Persona](/assets/img/MarketingPersona1.JPG)
 ![Persona](/assets/img/MarketingPersona2.JPG)
 
