@@ -11,5 +11,8 @@ comments: true
 These are some of the covers I created for the Survivor Strong Prostate Cancer manual for Maple Tree Cancer Alliance. 
 
 ![Persona](/assets/img/prostate cancer first page Drafts.jpg)
+ 
 ![Persona](/assets/img/prostate cancer first page Drafts2.jpg)
+ 
 ![Persona](/assets/img/prostate cancer first page Drafts3.jpg)
+ 
