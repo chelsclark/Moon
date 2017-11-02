@@ -8,5 +8,14 @@ tags: [Maple Tree Cancer Alliance]
 comments: true
 ---
 
-These are the covers I designed for the Survivor Strong Breast Cancer Program.
+These are the covers I designed for the Survivor Strong Breast Cancer Program and a part of the Survivor Strong Breast Cancer Manual
 
+![Persona](/assets/img/Fight Cancer Back-page-001.jpg)
+ 
+![Persona](/assets/img/Week one-page-001.jpg)
+ 
+![Persona](/assets/img/Fight Cancer Back-page-002.jpg)
+ 
+![Persona](/assets/img/Fight Cancer Back-page-003.jpg)
+ 
+![Persona](/assets/img/Fight Cancer Back-page-014.jpg)
