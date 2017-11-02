@@ -12,7 +12,7 @@ These are the covers I designed for the Survivor Strong Breast Cancer Program an
 
 ![Persona](/assets/img/Fight Cancer Back-page-001.jpg)
  
-![Persona](/assets/img/Week one-page-001.jpg)
+![Persona](/assets/img/Week four-page-001.jpg)
  
 ![Persona](/assets/img/Fight Cancer Back-page-002.jpg)
  
